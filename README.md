@@ -1,6 +1,4 @@
-# React Redux Satu
-
-> React Redux Satu
+# React Redux Starter
 
 ## Build Setup
 
