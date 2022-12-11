@@ -16,7 +16,7 @@
     "bootstrap": "^4.3.1",
     "css-loader": "^2.1.1",
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^0.10.1",
     "fixed-data-table": "^0.6.3",
     "history": "^4.9.0",
